@@ -1,0 +1,14 @@
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\bin\Debug\ChatClient.exe.config
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\bin\Debug\ChatClient.exe
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\bin\Debug\ChatClient.pdb
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\bin\Debug\ChatCommoms.dll
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\bin\Debug\ChatModels.dll
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\bin\Debug\ChatCommoms.pdb
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\bin\Debug\ChatModels.pdb
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\obj\Debug\ChatClient.exe
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatClient\obj\Debug\ChatClient.pdb

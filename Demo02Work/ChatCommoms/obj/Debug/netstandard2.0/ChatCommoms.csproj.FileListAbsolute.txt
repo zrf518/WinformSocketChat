@@ -1,0 +1,11 @@
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\bin\Debug\netstandard2.0\ChatCommoms.deps.json
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\bin\Debug\netstandard2.0\ChatCommoms.dll
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\bin\Debug\netstandard2.0\ChatCommoms.pdb
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\bin\Debug\netstandard2.0\ChatModels.dll
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\bin\Debug\netstandard2.0\ChatModels.pdb
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\obj\Debug\netstandard2.0\ChatCommoms.csprojAssemblyReference.cache
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\obj\Debug\netstandard2.0\ChatCommoms.AssemblyInfoInputs.cache
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\obj\Debug\netstandard2.0\ChatCommoms.AssemblyInfo.cs
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\obj\Debug\netstandard2.0\ChatCommoms.csproj.CopyComplete
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\obj\Debug\netstandard2.0\ChatCommoms.dll
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatCommoms\obj\Debug\netstandard2.0\ChatCommoms.pdb

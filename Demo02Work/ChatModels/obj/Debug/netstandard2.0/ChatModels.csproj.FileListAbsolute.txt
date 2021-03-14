@@ -1,0 +1,8 @@
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\bin\Debug\netstandard2.0\ChatModels.deps.json
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\bin\Debug\netstandard2.0\ChatModels.dll
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\bin\Debug\netstandard2.0\ChatModels.pdb
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\obj\Debug\netstandard2.0\ChatModels.AssemblyInfoInputs.cache
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\obj\Debug\netstandard2.0\ChatModels.AssemblyInfo.cs
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\obj\Debug\netstandard2.0\ChatModels.dll
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\obj\Debug\netstandard2.0\ChatModels.pdb
+D:\_Myfiles\MyDemos\MyCoreDemos\Demo02Work\Demo02Work\ChatModels\obj\Debug\netstandard2.0\ChatModels.csprojAssemblyReference.cache
